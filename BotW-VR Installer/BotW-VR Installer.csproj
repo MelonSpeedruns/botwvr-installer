@@ -8,7 +8,7 @@
     <ProjectGuid>{37B837B9-76A2-4DA3-A553-5EB5109983A1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>BotW_VR_Installer</RootNamespace>
-    <AssemblyName>BotW-VR Installer 2.2</AssemblyName>
+    <AssemblyName>BotW-VR Installer 3.0</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
